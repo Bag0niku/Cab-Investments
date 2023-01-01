@@ -37,7 +37,7 @@ The outcome of your delivery will be a presentation to XYZ’s Executive team. T
 Generate 5-7 hypothesis and investigate:
 
 ### Areas to Investigate:    
-Which company has maximum cab users at a particular time period?    
+ *  Which company has maximum cab users at a particular time period?    
  *  Does margin proportionally increase with increase in number of customers?    
  *  What are the attributes of these customer segments?
 
