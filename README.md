@@ -1,5 +1,5 @@
 # Cab-Investments
-A Data Glacier Intrnship Machine Learning Projcet. Initial Cab Data was provided by Data Glacier.
+A Data Glacier Internship Machine Learning Project. Initial Cab Data and project parameters were provided by Data Glacier.
 
 ## The Client
 
